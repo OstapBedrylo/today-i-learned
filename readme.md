@@ -6,6 +6,8 @@ I - GIT
 в ній вже є свій термінал Git Bash
 Про Гіт можна почитатти https://git-scm.com/book/uk/v2
 
+Зручна навчалка по Гіту: https://learngitbranching.js.org/?locale=uk
+
 Перевіримо чи Git встановлений
 git version
 
