@@ -65,4 +65,6 @@ am - команда яка автоматично робить add і коміт
 https://cssreference.io/
 https://htmlreference.io/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+https://flexboxfroggy.com/
+
 
