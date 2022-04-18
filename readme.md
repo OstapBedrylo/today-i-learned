@@ -63,8 +63,12 @@ am - команда яка автоматично робить add і коміт
 
 Корисні посилання по css і html:
 https://cssreference.io/
+
 https://htmlreference.io/
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
-https://flexboxfroggy.com/
+
+https://flexboxfroggy.com/ - властивості позиціонування flex
+
 
 
