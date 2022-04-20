@@ -62,6 +62,7 @@ am - команда яка автоматично робить add і коміт
 4. щоб локальну гілку main звязати з віддаленою git push -u origin main
 
 Корисні посилання по css і html:
+
 https://caniuse.com/ - перевірка для версій броузерів
 
 https://cssreference.io/
@@ -71,6 +72,8 @@ https://htmlreference.io/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
 
 https://flexboxfroggy.com/ - властивості позиціонування flex
+
+ https://cssgridgarden.com/ - та саме grid
 
 
 
