@@ -74,6 +74,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
 https://flexboxfroggy.com/ - властивості позиціонування flex
 
  https://cssgridgarden.com/ - та саме grid
+ 
+ 
 
+~~~~~~~~~~~~~~~~~JS~~~~~~~~~~~~~~~~~~~~~~~~~
 
+https://eloquentjavascript.net/
 
